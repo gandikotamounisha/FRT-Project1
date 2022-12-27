@@ -65,6 +65,10 @@ This is a web based application developed for Fintech related based website in i
 
 
 
+![Screenshot (5)](https://user-images.githubusercontent.com/115691068/209642661-7795d579-237f-4583-bf18-b87f2f66cedb.png)
+
+
+
 
 
 
@@ -82,12 +86,12 @@ This is a web based application developed for Fintech related based website in i
 ### Service -
 
 
-![Screenshot (5)](https://user-images.githubusercontent.com/115691068/209642661-7795d579-237f-4583-bf18-b87f2f66cedb.png)
+
 
 
 ![Screenshot (6)](https://user-images.githubusercontent.com/115691068/209642675-60fe1f0e-be22-49d6-b892-a034ad917f0e.png)
 
-![Screenshot (7)](https://user-images.githubusercontent.com/115691068/209642692-f478f739-da44-4f11-9a97-da5be8408037.png)
+
 
 
 
