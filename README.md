@@ -8,7 +8,7 @@ This is a web based application developed for Fintech related based website in i
 *Project Link* - https://kind-stone-082d72300.2.azurestaticapps.net
 
 *project demo video link* -
-
+https://youtu.be/WjCsxGQMFDs
 
 ## Azure Technologies Used For Project
 
